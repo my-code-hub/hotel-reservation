@@ -1,0 +1,9 @@
+[
+  {
+    "id" : %d,
+    "version" : 0,
+    "checkin" : "%s",
+    "checkout" : "%s",
+    "customerId" : %d
+  }
+]

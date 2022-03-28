@@ -1,0 +1,5 @@
+{
+  "checkin" : "%s",
+  "checkout" : "%s",
+  "customerId" : %d
+}
