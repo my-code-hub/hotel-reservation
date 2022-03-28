@@ -1,6 +1,6 @@
 # Hotel reservation system
 
-Java 17 required to run the service locally. Use command:
+Java 17 is required to run the service locally. Use command:
 
 ```bash 
 ./gradlew bootRun
@@ -8,4 +8,4 @@ Java 17 required to run the service locally. Use command:
 
 ## API
 
-Available API specification can be viewed in Swagger UI - [http://localhost:8080/swagger-ui/](http://localhost:8080/swagger-ui/)
+Swagger UI - [http://localhost:8080/swagger-ui/](http://localhost:8080/swagger-ui/)
